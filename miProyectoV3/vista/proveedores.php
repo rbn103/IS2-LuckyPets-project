@@ -193,7 +193,7 @@ if (!isset($_SESSION['user'])) {
 <span class="material-symbols-outlined text-sm text-gray-300">star</span>
 </div>
 </td>
-<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="#"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
+<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="https://barker.pe/?srsltid=AfmBOoqpRENKpNREorM_E3TlApAa06ntX5S9mZqraC6NiNCDhXwW7B0p"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
 <td class="py-4 px-4">
 <div class="flex items-center space-x-3">
 <button class="text-gray-500 hover:text-gray-700"><span class="material-symbols-outlined text-lg">edit</span></button>
@@ -214,7 +214,7 @@ if (!isset($_SESSION['user'])) {
 <span class="material-symbols-outlined text-sm text-gray-300">star</span>
 </div>
 </td>
-<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="#"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
+<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="https://www.molitalia.com.pe/productos/marcas/mimaskot/page/3/"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
 <td class="py-4 px-4">
 <div class="flex items-center space-x-3">
 <button class="text-gray-500 hover:text-gray-700"><span class="material-symbols-outlined text-lg">edit</span></button>
@@ -235,7 +235,7 @@ if (!isset($_SESSION['user'])) {
 <span class="material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1;">star</span>
 </div>
 </td>
-<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="#"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
+<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="https://www.pedigree.es/compra-online"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
 <td class="py-4 px-4">
 <div class="flex items-center space-x-3">
 <button class="text-gray-500 hover:text-gray-700"><span class="material-symbols-outlined text-lg">edit</span></button>
@@ -256,7 +256,7 @@ if (!isset($_SESSION['user'])) {
 <span class="material-symbols-outlined text-sm text-gray-300">star</span>
 </div>
 </td>
-<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="#"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
+<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="https://ricocan.com/"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
 <td class="py-4 px-4">
 <div class="flex items-center space-x-3">
 <button class="text-gray-500 hover:text-gray-700"><span class="material-symbols-outlined text-lg">edit</span></button>
@@ -277,7 +277,7 @@ if (!isset($_SESSION['user'])) {
 <span class="material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1;">star</span>
 </div>
 </td>
-<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="#"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
+<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="https://purina.com.pe/proplan"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
 <td class="py-4 px-4">
 <div class="flex items-center space-x-3">
 <button class="text-gray-500 hover:text-gray-700"><span class="material-symbols-outlined text-lg">edit</span></button>
@@ -319,7 +319,7 @@ if (!isset($_SESSION['user'])) {
 <span class="material-symbols-outlined text-sm text-gray-300">star</span>
 </div>
 </td>
-<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="#"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
+<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="https://allkjoy.com/"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
 <td class="py-4 px-4">
 <div class="flex items-center space-x-3">
 <button class="text-gray-500 hover:text-gray-700"><span class="material-symbols-outlined text-lg">edit</span></button>
@@ -340,7 +340,7 @@ if (!isset($_SESSION['user'])) {
 <span class="material-symbols-outlined text-sm text-gray-300">star</span>
 </div>
 </td>
-<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="#"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
+<td class="py-4 px-4"><a class="flex items-center text-blue-600 hover:underline" href="https://familypetfc.com/"><span class="material-symbols-outlined mr-1 text-base">public</span>Visitar</a></td>
 <td class="py-4 px-4">
 <div class="flex items-center space-x-3">
 <button class="text-gray-500 hover:text-gray-700"><span class="material-symbols-outlined text-lg">edit</span></button>
@@ -355,4 +355,5 @@ if (!isset($_SESSION['user'])) {
 </main>
 </div>
 </body>
+
 </html>
